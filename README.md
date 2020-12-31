@@ -1,5 +1,3 @@
-# lidevlin.github.io
-
 * Curriculum Vitae
 
 ** Current Role:
